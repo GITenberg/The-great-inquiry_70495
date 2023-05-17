@@ -1,0 +1,52 @@
+_repo: The-great-inquiry_70495
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    aliases:
+    - Belloc, Joseph Hilaire Pierre
+    - Belloc, H.
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2023-04-07'
+identifiers:
+  gutenberg: '70495'
+  lccn: '84241976'
+language: en
+pgterms:marc904: https://archive.org/details/greatinquiryonly00bellrich/page/n7/mode/2up
+pgterms:marc905: 20200416015252belloc
+pgterms:marc906: '1903'
+pgterms:marc907: GB
+production_note: Benjamin Fluehr, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bDuckworth & Co., $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Chamberlain, Joseph, 1836-1914 -- Humor'
+- !lcsh 'Balfour, Arthur James, 1848-1930 -- Humor'
+- !lcsh 'Tariff -- Great Britain -- History -- Humor'
+- !lcsh 'Protectionism -- Great Britain -- Humor'
+- !lcsh 'Great Britain -- Politics and government -- 1901-1910 -- Humor'
+- !lcc 'PR'
+- GITenberg
+title: The great inquiry
+url: http://www.gutenberg.org/ebooks/70495
