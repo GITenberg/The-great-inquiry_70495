@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '80'
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+covers:
+- cover_type: archival
+  image_path: 70495-h/images/cover.jpg
 creator:
   author:
     agent_name: Belloc, Hilaire
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70495#The-great-inquiry
 gutenberg_issued: '2023-04-07'
 identifiers:
   gutenberg: '70495'
